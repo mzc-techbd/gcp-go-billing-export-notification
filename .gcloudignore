@@ -1,0 +1,12 @@
+go.work
+\*.test
+
+cmd/**
+images/**
+excalidraw/**
+
+*.md
+
+*.env
+
+
